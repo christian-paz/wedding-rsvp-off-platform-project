@@ -13,6 +13,7 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	        |
-| Christian	        | 1		        |
-| Jeremy	        | 1		        |
+| Maxibon           | 5 	    |
+| Christian	    | 1		    |
+| Jeremy	    | 1		    |
+| Charley	    | 2		    |
